@@ -1,10 +1,5 @@
 # my_awesome_repository
-This time we will try R way of doıng things
+notes i takes during class
 
-This is new text i added
 
-## heading 2
-
-blabla
-
-**bolded text**
+I'm adding this text locally.
