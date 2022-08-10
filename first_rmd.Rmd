@@ -1,0 +1,42 @@
+---
+title: "Title of my first rmd file"
+author: "Mehmet Gümüş"
+date: "2022-08-08"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 2
+---
+
+This is human readable text.
+
+# Heading 1
+
+The molecular biology is cool because:
+
+- It solves the mysterie of life
+- It is *awesome* because it helps you create colorful figures
+- It helps us cheat death thanks to **drugs**
+
+![](https://media.giphy.com/media/fqIBaMWI7m7O8/giphy.gif)
+# Heading 2
+
+```{r, eval=FALSE}
+
+#2 plus 2 equals 4
+
+print(2+2)
+
+```
+
+# Heading 3
+
+```{r}
+
+plot(pressure)
+
+```
+
+
+
